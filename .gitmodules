@@ -1,0 +1,6 @@
+[submodule "seif-front"]
+	path = seif-front
+	url = https://github.com/Tallispt/seif-front.git
+[submodule "seif-back"]
+	path = seif-back
+	url = https://github.com/Tallispt/seif-back.git
